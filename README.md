@@ -1,5 +1,4 @@
 
-
 # Weather Dashboard
 ## Unit 06 Homework Assignment
 
@@ -7,6 +6,7 @@ Explore the live app here:
 [Weather Dashboard](https://ryanellingson.github.io/Weather-Dashboard/)
 
 ## Project Overview
+
 
 The Weather Dashboard is a convenient tool that lets users search for real-time weather conditions in any city. Enter a city name (either the city alone or "city, state") and hit search to see current weather details, including temperature, humidity, UV index, and an illustrative icon representing the weather (e.g., clear, cloudy, rainy). The app also displays a 5-day forecast at 12:00 PM for the selected city.
 
