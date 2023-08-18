@@ -3,7 +3,7 @@
 ## Unit 06 Homework Assignment
 
 Explore the live app here:
-[Weather Dashboard](https://ryanellingson.github.io/Weather-Dashboard/)
+[Weather Dashboard](https://donsidious.github.io/Weather-Dashboard/)
 
 ## Project Overview
 
